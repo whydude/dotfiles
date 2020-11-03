@@ -1,0 +1,1 @@
+yes | yay -S rofi-git awesome-git -y --useask --nodiffmenu --noeditmenu --nocleanmenu --noremovemake
